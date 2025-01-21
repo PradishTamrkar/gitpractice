@@ -11,7 +11,9 @@ git@github.com:PradishTamrkar/gitpractice.git
 ```
 
 2. Now navigate to the project directory
+```
 cd gitpractice
+```
 
 3. Then,run script
 ```bash
